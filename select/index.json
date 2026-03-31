@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "少女レイ",
+  "base_artist": "春猿火",
+  "createdAt": "2026-03-31T09:42:38.253782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/01_少女レイ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_少女レイ_(feat._桐谷遥&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "MORE MORE JUMP! feat. 桐谷遥&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/03_少女レイ_MORE_MORE_JUMP!_feat._桐谷遥&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少女レイ at I SCREAM LIVE - Cover",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/04_少女レイ_at_I_SCREAM_LIVE_-_Cover_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_少女レイ_(feat._桐谷遥_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/06_少女レイ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/07_少女レイ_(feat._桐谷遥&日野森雫&初音ミク)_MORE_MORE_JUMP!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "mikitoP  Official",
+      "has_synced": true,
+      "path": "select/08_少女レイ_mikitoP_Official.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/09_少女レイ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "Mikito-P feat. Mikito-P",
+      "has_synced": true,
+      "path": "select/10_少女レイ_Mikito-P_feat._Mikito-P.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "少女レイ - Shojo Rei",
+      "artist": "Mikito-P",
+      "has_synced": true,
+      "path": "select/11_少女レイ_-_Shojo_Rei_Mikito-P.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/12_少女レイ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "NORISTRY",
+      "has_synced": true,
+      "path": "select/13_少女レイ_NORISTRY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/14_少女レイ_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "この子",
+      "has_synced": false,
+      "path": "select/15_少女レイ_この子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "少女レイ - Shoujo Rei (feat. 桐谷遥",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/16_少女レイ_-_Shoujo_Rei_(feat._桐谷遥_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "少女レイ (feat",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/17_少女レイ_(feat_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "少女レイ",
+      "artist": "Mikito-P",
+      "has_synced": true,
+      "path": "select/18_少女レイ_Mikito-P.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女レイ",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_少女レイ_春猿火.txt"
+    }
+  ]
+}
